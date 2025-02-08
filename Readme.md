@@ -9,8 +9,8 @@ A tool to analyze and identify similar images using deep learning techniques.
 Chart-Similarity-Checker/
 ├── image-sim-main/
 │   ├── file/
-│   │   ├── **pycache**/
-│   │   ├── **init**.py
+│   │   ├── __pycache__/
+│   │   ├── __init__.py
 │   │   ├── check_image_similarities.py
 │   │   └── img_plotter.py
 │   ├── .gitignore
