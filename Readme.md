@@ -112,7 +112,7 @@ analyze_notebook(notebook_file, colab_id)
 ## Installation
 Clone the repository:
 ```bash
-git clone https://github.com/Theternos/Multimodality-Gemini.git
+git clone https://github.com/Theternos/Multimodal-Toolkit.git
 ```
 
 ## Contributing
