@@ -86,7 +86,7 @@ metadata_folder_id = "your_metadata_folder_id"
 drive_folder_id = "your_drive_folder_id"
 
 # Process a Colab notebook
-colab_link = "https://colab.research.google.com/drive/<File-ID>?usp=sharing"
+colab_link = "your_colab_link"
 notebook_name = get_colab_name(colab_id)
 notebook_file = download_notebook(colab_id)
 analyze_notebook(notebook_file, colab_id)
