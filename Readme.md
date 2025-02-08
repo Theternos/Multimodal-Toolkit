@@ -48,7 +48,7 @@ A tool to generate documentation and metadata for Jupyter notebooks.
 ### Features
 - Creates metadata CSV files
 - Creates data CSV files
-- Generates one **shot go** script to paste the respectives links on the web tool we used.  
+- Generates **one shot go** script to paste the respectives links on the web tool we used.  
 
 ### Example Usage
 ```python
