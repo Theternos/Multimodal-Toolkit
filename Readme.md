@@ -1,6 +1,5 @@
 # Multi-Project Repository
-This repository contains multiple Python projects for different purposes. Each project is designed to handle specific tasks related to data analysis, image processing, and documentation.
-
+This repository contains multiple Python projects for different purposes. Each project is designed to handle specific tasks related to data analysis, image processing, and documentation. I have used these self-built tools to boost my productivity and simplify my work with the **Gemini Multimodality** Project at **Turing**.
 ## 1. Chart Similarity Checker
 A tool to analyze and identify similar images using deep learning techniques.
 
@@ -112,7 +111,7 @@ analyze_notebook(notebook_file, colab_id)
 ## Installation
 Clone the repository:
 ```bash
-git clone https://github.com/Theternos/Multimodal-Toolkit.git
+git clone https://github.com/Theternos/NebuSynth.git
 ```
 
 ## Contributing
